@@ -76,7 +76,7 @@
           </nav>
       </div>
     <router-view></router-view>
-    <footer class="main-footer">
+    <footer class="bs-docs-footer">
         <div class="container">
             <div class="row" style="text-align: center">
                 <div class="col-sm-4">
@@ -128,7 +128,6 @@ export default {
   methods: {
     selectMenu (menu) {
       this.selectedMenu = menu
-      console.log(this.selectedMenu)
     }
   }
 }
@@ -207,5 +206,14 @@ export default {
     -webkit-border-radius: 6px 0 6px 6px;
     -moz-border-radius: 6px 0 6px 6px;
     border-radius: 6px 0 6px 6px;
+}
+/*footer 样式*/
+.bs-docs-footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    color: #99979c;
+    text-align: center;
+    background-color: #2a2730;
 }
 </style>
