@@ -3,38 +3,18 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
-                <img class="animated fadeIn" src="../../static/store_logo.png" width="60%" alt="Arctica Food" style="margin: auto;display: block;" >
+                <img class="animated fadeIn" src="../../static/contact-banner.jpg" width="100%"  style="margin: auto;display: block;" >
             </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-4">
-                <img class="animated bounceInLeft" src="../../static/banner-sec-left.jpg" width="100%" alt="Arctica Food" >
-            </div>
-            <div class="col-sm-4">
-                <img class="animated bounceInRight" src="../../static/product-best.jpg" width="100%" alt="Arctica Food" >
-            </div>
-            <div class="col-sm-2"></div>
-        </div>
-        <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-4">
-                <img class="animated bounceInLeft" src="../../static/product-classic.jpg" width="100%" alt="Arctica Food" >
-            </div>
-            <div class="col-sm-4">
-                <img class="animated bounceInRight" src="../../static/product-great.jpg" width="100%" alt="Arctica Food" >
-            </div>
-            <div class="col-sm-2"></div>
         </div>
         <div class="row">
             <div class="col-sm-12" >
-                <a href="/product.html" style="display: block;text-align: center"><h4>点击查看我们的产品</h4></a>
+              <router-link to="/sea-slug"><h4 style="display: block;text-align: center">点击查看我们的产品</h4></router-link>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-2"></div>
             <div class="col-sm-4">
-                <img class="animated bounceInLeft" src="../../static/product-great.jpg" width="100%" alt="Arctica Food" >
+                <img class="animated bounceInLeft" src="../../static/product-great.jpg" width="100%"  >
             </div>
             <div class="col-sm-4">
                 <div class="animated bounceInRight">
@@ -55,10 +35,10 @@
         <div class="row">
             <div class="col-sm-2"></div>
             <div class="col-sm-4">
-                <img class="animated bounceInLeft" src="../../static/right-people.jpg" width="100%" alt="Arctica Food" >
+                <img class="animated bounceInLeft" src="../../static/right-people.jpg" width="100%"  >
             </div>
             <div class="col-sm-4">
-                <img class="animated bounceInRight" src="../../static/method.png" width="100%" alt="Arctica Food" >
+                <img class="animated bounceInRight" src="../../static/method.png" width="100%"  >
             </div>
             <div class="col-sm-2"></div>
         </div>
