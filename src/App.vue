@@ -83,7 +83,7 @@
                     <div class="widget">
                         <h4 class="title">关于我们</h4>
                         <div class="content">
-                            浩平控股（加拿大）有限公司<br/>
+                            Pingmart控股（加拿大）有限公司<br/>
                             Ping Holdings (Canada) Corp.
                         </div>
                     </div>

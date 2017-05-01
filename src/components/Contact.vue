@@ -49,7 +49,7 @@
             <div class="col-sm-1"></div>
             <div class="col-sm-5">
                 <h3>Ping Holdings (Canada) Corp.</h3>
-                <h3>浩平控股（加拿大）有限公司</h3>
+                <h3>Pingmart控股（加拿大）有限公司</h3>
                 电话：001-604-5537678；001-778-3168876<br>
                 地址 2227 Hartley Avenue, Coquitlam, British Columbia, Canada
                 <img src="../../static/wechat.jpeg" width="100" style="margin: auto;display: block;padding-top: 20px">
